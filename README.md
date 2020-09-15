@@ -9,23 +9,17 @@
 
 ## Nom
 
-Skywalker
+Mansour
 
 ## Prénom
 
-Luke
+Azeddine
 
 ## Courte présentation
 
 Bonjour,
 
-Je m'appelle Luke.
-J'aime bien piloter des vaisseaux spatiaux en mode manuel.
-Et je aussi parler aux robots.
-Grand voyageur, j'ai visité plusieurs planètes.
-Malheureusement, mes voyages ne se terminent pas toujours bien.
+Je m'appelle Azeddine.
+J'aime bien le developpement informatique.
 
-Je suis tantôt impulsif, tantôt grognon.
-Et j'ai une famille un peu compliquée.
-
-J'ai hâte d'apprendre à programmer en JavaScript.
+j'ai déja programmer en javascript 
